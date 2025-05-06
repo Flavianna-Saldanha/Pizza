@@ -1,19 +1,16 @@
-🍕 Projeto Pizza
+# 🍕 Projeto Pizza
 
-Uma aplicação web simples para exibir um cardápio de pizzas, desenvolvida com HTML, CSS e JavaScript.
+Uma aplicação web simples que exibe um cardápio de pizzas dinâmico. Desenvolvido com foco em praticar HTML, CSS e JavaScript puros.
 
-📁 Estrutura do Projeto
-index.html: Página principal que exibe o cardápio de pizzas.
+## 📂 Estrutura do Projeto
 
-style.css: Estilos utilizados na aplicação.
+- `index.html` — Página principal com a estrutura do cardápio.
+- `style.css` — Estilização da página.
+- `script.js` — Manipulação de eventos e interação com o usuário.
+- `pizzas.js` — Base de dados com as informações das pizzas.
+- `images/` — Contém as imagens utilizadas no cardápio.
 
-script.js: Lógica principal da aplicação.
-
-pizzas.js: Dados das pizzas disponíveis.
-
-images/: Pasta contendo as imagens das pizzas.
-
-🛠 Tecnologias Utilizadas
+## 🛠 Tecnologias Utilizadas
 HTML5
 CSS3
 JavaScript
