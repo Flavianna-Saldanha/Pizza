@@ -1,4 +1,5 @@
 🍕 Projeto Pizza
+
 Uma aplicação web simples para exibir um cardápio de pizzas, desenvolvida com HTML, CSS e JavaScript.
 
 📁 Estrutura do Projeto
